@@ -9,16 +9,6 @@
 ## AIM:
 To write a Java program to find the maximum number of children who can be content with the available cookies using a greedy approach.
 
----
-
-## THEORY:
-The **Assign Cookies** problem is a classic greedy algorithm problem.  
-Each child has a “greed factor” and each cookie has a “size.”  
-A child is satisfied if the cookie size is **greater than or equal** to their greed factor.  
-By sorting both arrays and giving each child the smallest possible cookie that satisfies them, we maximize the total number of satisfied children.
-
----
-
 ## ALGORITHM:
 1. Start the program.  
 2. Read the number of children `n` and their greed factors `g[]`.  
