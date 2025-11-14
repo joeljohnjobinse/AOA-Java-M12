@@ -35,6 +35,11 @@ By sorting both arrays and giving each child the smallest possible cookie that s
 
 ## PROGRAM:
 ```java
+/*
+Program to implement Assign Cookies
+Developed by: Joel John Jobinse
+Register Number: 212223240062 
+*/
 import java.util.*;
 
 public class AssignCookies {
