@@ -26,6 +26,11 @@ If it is not possible to reach the end, return -1.
    
 ## Program:
 ```java
+/*
+Program to implement Jump Game
+Developed by: Joel John Jobinse
+Register Number: 212223240062 
+*/
 import java.util.Scanner;
 
 public class MinJumpToEnd {
