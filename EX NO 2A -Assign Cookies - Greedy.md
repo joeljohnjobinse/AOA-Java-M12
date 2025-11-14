@@ -61,3 +61,12 @@ public class AssignCookies {
         System.out.println(findContentChildren(g, s));
     }
 }
+```
+
+## Output:
+<img width="324" height="305" alt="image" src="https://github.com/user-attachments/assets/70337a34-313d-434b-b4e1-b6e81561bd50" />
+
+
+
+## Result:
+The program successfully print all the numbers from 1 to N. 
